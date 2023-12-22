@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AsalSayilar.iml" filepath="$PROJECT_DIR$/AsalSayilar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FibonassiSerisi.iml" filepath="$PROJECT_DIR$/FibonassiSerisi.iml" />
     </modules>
   </component>
 </project>
